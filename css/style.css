@@ -18,7 +18,7 @@ header{
 
 #titolo-boolean{
     width: 150px;
-    margin: 25px;
+    margin-top: 20px;
     
 }
 .titolo{
@@ -45,3 +45,26 @@ header{
     margin: 0 auto;
 }
 
+.descrizione-foto{
+    font-size: 15px;
+}
+
+#lorem-1{padding-top: 20px;
+    font-size: 20px;
+    font-family: "Neuton",serif;
+
+
+}
+.dettaglio-lorem{
+
+    background-color: yellow;
+}
+
+#lorem-lista{
+    font-size: 20px;
+    font-family: "Neuton",serif;
+
+padding-top: 15px;
+margin: 20px;
+
+}
