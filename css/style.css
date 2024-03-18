@@ -68,3 +68,31 @@ padding-top: 15px;
 margin: 20px;
 
 }
+.raw1{
+
+    background-color: aqua;
+}
+
+
+thead {
+
+    background-color: blue;
+}
+
+table{
+    text-align: left;
+}
+
+.last-lorem{
+
+padding-top: 20px;
+
+}
+.potrebbe-interessarti{
+
+    margin-top: 20px;
+    color: rgb(170,164,163);
+
+
+
+}
