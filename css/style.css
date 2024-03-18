@@ -3,6 +3,7 @@
     padding: 0;
     margin:0;
     box-sizing: border-box;}
+    
     /* titolo con sfondo */
 
 header{
@@ -18,4 +19,25 @@ header{
     width: 150px;
     margin: 25px;
     margin-left: 85px;
+}
+.titolo{
+    font-family: "Neuton",serif;
+    padding-left: 80px;
+    font-size: 170%;
+}
+
+.autore{
+    color: rgb(170, 164, 163);
+    padding-left: 80px;
+}
+.dettaglio-autore{
+    color: rgb(0, 204, 255);
+    font-family:"EB Garamond", serif;
+}
+.data-articolo{
+    color: rgb(170,164,163);
+    font-size: 10px;
+    padding-left: 80px;
+    
+    
 }
